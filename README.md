@@ -2,7 +2,7 @@
 
 2017年10月20日开博
 
-此博客 fork 自 [ cnfeat](http://azeril.me/)，感谢。
+此博客 fork 自 [ cnfeat](https://github.com/cnfeat/blog.io)，感谢。
 
 ##读书学习
 
