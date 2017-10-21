@@ -1,20 +1,20 @@
 ---
 layout: page
-title: "milestone"
-description: "知之真切笃实处即是行，行之明觉精察处即是知 "
+title: "学习计划"
+description: "学习计划制定 "
 header-img: "img/zhihu.jpg"
 ---
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="/img/1.jpg" align="center"></p>
 </center>
 
 
-###代表作：
+###Product Sense：
 
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://www.jianshu.com/p/6f1404e0240d)
+- [《Cracking the PM Interview: How to Land a Product Manager Job in Technology》](https://www.amazon.com/gp/product/0984782818/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0984782818&linkCode=as2&tag=1point3acres-20&linkId=1ca083ab227cdb5bc4bfa3df2f05dd12)
 
 - [《如何正确地练习写作》](http://www.jianshu.com/p/2621444b619d)
 
