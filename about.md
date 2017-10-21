@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="img/1.jpg" alt="云雀恭弥" align="center"></p>
+    <p><img src="/img/1.jpg" alt="云雀恭弥" align="center"></p>
 </center>
 
 先定个小目标，学习data science必备技能
